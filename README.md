@@ -1,2 +1,1 @@
-# .github
-Tronavo's Profile
+# Tronavo Technologies' GitHub Page
